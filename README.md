@@ -105,6 +105,12 @@ It is used to search for a specific value in a range or table of data and return
   ## Number of Engineers per Province
   ![image](https://github.com/MarjhunCacao/Group-1-Midterm-Dashboard/assets/144245978/39f07d88-024c-4503-a7c3-370310b87a17)
 
+  ## Total number of Engineers in this courses per Province
+  ![image](https://github.com/MarjhunCacao/Midterm_Group1/assets/144245978/1e5f707d-b58b-4b16-8986-8cd40f630492)
+  ![image](https://github.com/MarjhunCacao/Midterm_Group1/assets/144245978/81160a25-4074-4bec-98e5-eaa2bd273bad)
+
+
+
   ## Group 1
   Atienza, Mark Angelo
   
