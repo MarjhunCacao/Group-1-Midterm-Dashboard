@@ -1,8 +1,108 @@
-![image](https://github.com/MarjhunCacao/Group-1-Midterm-Dashboard/assets/144245978/fc59e565-6bef-4b80-8a13-cb14b83b9d03)
-### MIDTERM - ELECTIVES 2
 
-### GROUP 1
+# MIDTERM - ELECTIVES 2
 
-[Text Functions](docs/TEXT.md)
+## GROUP 1
+
+
+
+# Text Functions
+It is a type of function that takes text as input and returns text as output. Text functions can be used to manipulate text
+- Length (LEN): Returns the length of a text string.
+
+- Upper (UPPER): Converts all characters in a text string to uppercase.
+
+- Lower (LOWER): Converts all characters in a text string to lowercase.
+
+- Substitute (SUBSTITUTE): replace one or more text strings with another text string
+
+- Trim (TRIM): helps remove the extra spaces in data and thus clean up the cells in the worksheet
+  
+![text func](https://github.com/MarjhunCacao/Group-1-Midterm-Dashboard/assets/144245978/f8b75a1b-0231-4d00-ab2e-d464aa5f64ef)
+
+# Math Functions
+It is a built-in mathematical operation or formula that you can use to perform various calculations on numerical data in your spreadsheets. These functions make it easier to perform complex mathematical operations without having to write custom formulas.
+- Even (EVEN): It will round a specified number away from zero to the next even number
+
+- Odd (ODD): it rounds any given number to its odd value.
+
+- CountA (COUNTA): it counts cells containing any type of information, including error values and empty text ("")
+
+- Count (COUNT): it counts the number of cells that contain numbers, and counts numbers within the list of arguments.
+
+- Countblank (COUNTBLANK): is a premade function in Excel, which counts blank cells in a range.
+
+![image](https://github.com/MarjhunCacao/Group-1-Midterm-Dashboard/assets/144245978/24e06a1d-d7f6-4240-86f5-349a9f49e300)
+
+# Logical Functions
+It is a built-in function that allows you to perform operations based on logical conditions or criteria. These functions help you make decisions, evaluate data, and perform tasks based on whether certain conditions are met. Logical functions return either TRUE or FALSE as their results, which are commonly used for conditional formatting, data analysis, and complex decision-making within spreadsheets.
+- Countif (COUNTIF): is a premade function in Excel, which counts cells as specified
+
+- If (IF): it performs as a logical comparison between two values.
+
+- Isblank (ISBLANK): it checks whether a cell is blank or not.
+
+- Or (OR): is a premade function in Excel, which returns TRUE or FALSE based on two or more conditions.
+
+- Iferror (IFERROR): is designed to trap and manage errors in formulas and calculations.
+
+  ![image](https://github.com/MarjhunCacao/Group-1-Midterm-Dashboard/assets/144245978/3d99b21d-0747-49bc-9f4b-83d862a83a57)
+
+# Information Functions
+It provides information about the content, formatting and location of cells in an Excel Worksheet.
+- Iseven (ISEVEN): it will return TRUE if the number is even or FALSE if the number is not even, or odd.
+
+- Isodd (ISODD): it returns TRUE if the number is odd or FALSE if the number is even.
+
+- Isblank (ISBLANK): it checks whether a cell is blank or not.
+
+- Istext (ISTEXT): this function will test if a given value is a text string or not.
+
+- Isnontext (ISNONTEXT): this function helps to check if a cell contains text or not (is anything typed into a cell?).
+
+  ![image](https://github.com/MarjhunCacao/Group-1-Midterm-Dashboard/assets/144245978/2a38217e-968d-4268-8fb9-6cb3b36bf366)
+
+# Date and Time Functions
+It provides a variety of functions for working with dates and times. These functions allow you to perform calculations, manipulate dates and times, and format them as needed.
+- Day (DAY): it returns the day of the month as a number between 1 to 31 from a given date.
+
+- Month (MONTH): it extracts the month from a given date as a number between 1 to 12.
+
+- Year (YEAR): it returns a year corresponding to a given date, as a number from 1900 to 9999.
+
+- Weekday (WEEKDAY): an Excel DATE and TIME Function.
+
+- Days (DAYS): a Date/Time function that is used for calculating the number of days between two dates.
+
+  ![image](https://github.com/MarjhunCacao/Group-1-Midterm-Dashboard/assets/144245978/d2d29f75-fd84-4474-9226-4c8eec5f2f7d)
+
+# Lookup Functions 
+It is used to search for a specific value in a range or table of data and return related information from that range. These functions are extremely useful for tasks such as finding corresponding values, performing approximate matches, and retrieving data from large datasets.
+- Lookup (LOOKUP): is used for looking through a single column or row to find a particular value from the same place in a second column or row.
+
+- Match (MATCH): it searches for a specified item in a range of cells, and then returns the relative position of that item in the range.
+
+- Vlookup (VLOOKUP): is a built-in Excel function used to search for a value in the first column of a table range and return a corresponding value from another column in the same row.
+
+- Hlookup (HLOOKUP): is used to search for a value in the top row of an array of values, and then it retrieves the value in the same column from a row you specify in the table or array.
+
+- Address (ADDRESS): it returns the absolute address of the cell based on a specified row and column number.
+
+  ![image](https://github.com/MarjhunCacao/Group-1-Midterm-Dashboard/assets/144245978/7f64fbf8-efba-4d71-abfd-c10f35ed4105)
+  ![image](https://github.com/MarjhunCacao/Group-1-Midterm-Dashboard/assets/144245978/060b5558-b2c8-470a-89a4-54f33b35031a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
