@@ -92,6 +92,32 @@ It is used to search for a specific value in a range or table of data and return
   ![image](https://github.com/MarjhunCacao/Group-1-Midterm-Dashboard/assets/144245978/060b5558-b2c8-470a-89a4-54f33b35031a)
 
   # Dashboard
+  This dahsboard contains all the data about engineers emplyment which include, emplyment duration, city, company, and specializaion .
+  
+  ![image](https://github.com/MarjhunCacao/Group-1-Midterm-Dashboard/assets/144245978/534bf3c8-69ea-41be-91e9-6a677c49a7fd)
+
+  ## Total number of Engineers in a company in this courses
+  ![image](https://github.com/MarjhunCacao/Group-1-Midterm-Dashboard/assets/144245978/bff9623d-0556-41ff-904e-fdf9b1b85b46)
+
+  ## Total number of firms per Province
+  ![image](https://github.com/MarjhunCacao/Group-1-Midterm-Dashboard/assets/144245978/0989a39d-e380-4a3f-9bbb-c6b482d1fefa)
+
+  ## Number of Engineers per Province
+  ![image](https://github.com/MarjhunCacao/Group-1-Midterm-Dashboard/assets/144245978/39f07d88-024c-4503-a7c3-370310b87a17)
+
+  ## Group 1
+  Atienza, Mark Angelo
+  
+  Cacao, Marjhun
+  
+  De Leyos, Van Ralthe
+
+  # Source
+  https://www.kaggle.com/datasets/kingabzpro/pakistan-engineers-data
+  
+
+
+
   
 
 
