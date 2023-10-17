@@ -1,3 +1,4 @@
+![image](https://github.com/MarjhunCacao/Midterm_Group1/assets/144245978/58839ab6-9e39-4d11-89b3-61568ee8247c)
 
 # MIDTERM - ELECTIVES 2
 
