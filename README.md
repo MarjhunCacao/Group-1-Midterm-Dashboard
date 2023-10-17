@@ -92,7 +92,7 @@ It is used to search for a specific value in a range or table of data and return
   ![image](https://github.com/MarjhunCacao/Group-1-Midterm-Dashboard/assets/144245978/060b5558-b2c8-470a-89a4-54f33b35031a)
 
   # Dashboard
-  This dahsboard contains all the data about engineers emplyment which include, emplyment duration, city, company, and specializaion .
+  This dashboard contains all the data about engineers' employment which includes, employment duration, city, company, and specialization.
   
   ![image](https://github.com/MarjhunCacao/Group-1-Midterm-Dashboard/assets/144245978/534bf3c8-69ea-41be-91e9-6a677c49a7fd)
 
