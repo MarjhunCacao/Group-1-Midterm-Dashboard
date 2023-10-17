@@ -1,8 +1,9 @@
 
 # MIDTERM - ELECTIVES 2
 
-## GROUP 1
+GROUP 1
 
+MEXE - 4101
 
 
 # Text Functions
@@ -89,6 +90,9 @@ It is used to search for a specific value in a range or table of data and return
 
   ![image](https://github.com/MarjhunCacao/Group-1-Midterm-Dashboard/assets/144245978/7f64fbf8-efba-4d71-abfd-c10f35ed4105)
   ![image](https://github.com/MarjhunCacao/Group-1-Midterm-Dashboard/assets/144245978/060b5558-b2c8-470a-89a4-54f33b35031a)
+
+  # Dashboard
+  
 
 
 
